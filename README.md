@@ -1,7 +1,16 @@
 # Hey there! 👋  I'm Anes 😃🚀
 
 ## 💫 About Me:
-📚 I'm currently learning AI, ML & exploring Quantum ML<br><br>🎯 Goals: Solve real-world problems with AI & push the limits of what's possible<br><br>✨ Creating bugs since my loss function hit NaN and never came back<br><br>🔥 Hot take: AI models don’t overfit, humans just underthink  
+📚 Math nerd diving deep into AI, ML & exploring Quantum ML  
+
+🧐 Passionate about AI research—always asking questions and chasing curiosity  
+
+🎯 Goals: Explore the theoretical and philosophical frontiers of AI  
+
+✨ Creating bugs since my loss function hit NaN and never came back  
+
+🔥 Hot take: Training an AI isn’t about the data you feed it, it’s about the questions you ask it
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/825344841265053727)
