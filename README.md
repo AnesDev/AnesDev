@@ -1,7 +1,7 @@
 # Hey there! 👋  I'm Anes 😃🚀
 
 ## 💫 About Me:
-📚 Math nerd diving deep into AI, ML & exploring Quantum ML  
+📚 Math nerd diving deep into ML Optimisation & NLP
 
 🧐 Passionate about AI research—always asking questions and chasing curiosity  
 
