@@ -1,9 +1,9 @@
 # Hey there! 👋  I'm Anes 😃🚀
 
 ## 💫 About Me:
-📚 Math nerd diving deep into ML Optimisation & NLP
+📚 Math nerd diving deep into Efficient AI models design at the moment
 
-🧐 Passionate about AI research—always asking questions and chasing curiosity  
+🧐 Passionate about AI research, always asking questions and chasing my curiosity  
 
 🎯 Goals: Explore the theoretical and philosophical frontiers of AI  
 
